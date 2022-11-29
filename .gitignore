@@ -1,0 +1,7 @@
+credentials.toml
+darknet/*
+logs/*
+darknet
+api*
+capturar_foto.py
+fotos_autos
